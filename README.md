@@ -3,7 +3,7 @@ Simple Upload and generate shared link usign Dropbox SDK v2 for PHP (https://git
 
 ## Get Started
 
-Configure [upload.php], setting [app_key], [app_secret] and [access_token].
+Configure **upload.php**, setting **app_key**, **app_secret** and **access_token**.
 
 
 ## API Docs from kunalvarma05
